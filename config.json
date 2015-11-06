@@ -1,4 +1,4 @@
 class test-npn: {
 	ensure: "present",
-
+	file: "npn-config",
 }
