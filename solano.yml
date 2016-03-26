@@ -11,7 +11,6 @@ cache:
     - composer.lock
   save_paths:
     - vendor
-test_pattern: 'none'
 tests:
   - type: phpunit
     mode: parallel
